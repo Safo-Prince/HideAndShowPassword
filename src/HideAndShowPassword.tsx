@@ -7,7 +7,6 @@ const HideAndShowPassword = () => {
     <div className="h-[100vh] w-[100vw] flex items-center justify-center  ">
       <div className=" flex  relative   ">
         <span className="absolute text-[#61b1f7] font-semibold left-[23px] top-[10px]">
-          {" "}
           Password
         </span>
         <input
